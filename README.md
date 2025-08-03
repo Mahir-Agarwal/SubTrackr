@@ -9,7 +9,7 @@
 
 ---
 
-<h2>📝 About the Project:</h2>
+<h2>📝 About the Project </h2>
 
 <p><strong>SubTrackr</strong> is an Android app that helps users manage and track their recurring subscriptions (like Netflix, Spotify, Amazon Prime, etc.). It also sends timely alerts before auto-debit happens, helping users avoid surprise deductions.</p>
 
