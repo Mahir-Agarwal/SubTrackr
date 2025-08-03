@@ -89,35 +89,32 @@
 
 ---
 
-<h2>📁 Project Structure (Android)</h2>
-## 📁 Project Structure
+<h2>📁 Project Structure</h2>
 
+<h3>📱 Android Frontend (app/)</h3>
 <ul>
-  <li>📦 <strong>SubTrackr</strong>
-    <ul>
-      <li>📁 .idea/ – Android Studio config files</li>
-      <li>📁 .vscode/ – VS Code settings (if used)</li>
-      <li>📁 BackEnd/ – Spring Boot backend code
-        <ul>
-          <li>📁 .metadata/ – Workspace metadata</li>
-        </ul>
-      </li>
-      <li>📁 app/ – Main Android application source
-        <ul>
-          <li>📁 java/... – App logic, Activities, Models, API</li>
-          <li>📁 res/layout – XML layouts</li>
-          <li>📄 AndroidManifest.xml</li>
-        </ul>
-      </li>
-      <li>📁 gradle/ – Gradle wrapper files</li>
-      <li>📄 .gitignore – Git ignored files list</li>
-      <li>📄 README.md – Project documentation</li>
-      <li>📄 build.gradle.kts – Kotlin build script</li>
-      <li>📄 gradle.properties – Gradle configuration</li>
-      <li>📄 gradlew / gradlew.bat – Gradle wrapper scripts</li>
-      <li>📄 settings.gradle.kts – Gradle settings</li>
-    </ul>
-  </li>
+  <li>📁 <strong>app/</strong> – Main Android app source</li>
+  <li>📁 <strong>build/</strong> – Gradle build output</li>
+  <li>📁 <strong>gradle/</strong> – Gradle wrapper files</li>
+  <li>⚙️ <strong>build.gradle.kts</strong> – Gradle config (Kotlin)</li>
+  <li>⚙️ <strong>settings.gradle.kts</strong> – Project settings</li>
+  <li>⚙️ <strong>gradlew / gradlew.bat</strong> – Gradle wrapper scripts</li>
+  <li>⚙️ <strong>.idea/, .vscode/</strong> – IDE configs (Android Studio / VSCode)</li>
+  <li>⚙️ <strong>.gitignore, local.properties</strong></li>
+</ul>
+
+---
+
+<h3>🌐 Spring Boot Backend (BackEnd/)</h3>
+<ul>
+  <li>📁 <strong>src/</strong> – Java source code (controllers, services, models)</li>
+  <li>📁 <strong>target/</strong> – Compiled build output</li>
+  <li>⚙️ <strong>pom.xml</strong> – Maven dependencies & build config</li>
+  <li>⚙️ <strong>mvnw / mvnw.cmd</strong> – Maven wrapper</li>
+  <li>⚙️ <strong>compose.yaml</strong> – (Optional) Docker Compose or deployment</li>
+  <li>⚙️ <strong>.project, .classpath</strong> – Eclipse project files</li>
+  <li>⚙️ <strong>.settings/</strong> – IDE settings</li>
+  <li>⚙️ <strong>.gitignore, .gitattributes</strong></li>
 </ul>
 
 
