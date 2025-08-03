@@ -11,9 +11,21 @@
 
 <h2>📝 About the Project </h2>
 
-<p><strong>SubTrackr</strong> is an Android app that helps users manage and track their recurring subscriptions (like Netflix, Spotify, Amazon Prime, etc.). It also sends timely alerts before auto-debit happens, helping users avoid surprise deductions.</p>
+<p><strong>SubTrackr</strong> is an Android app designed to help users <strong>track and manage all their recurring subscriptions in one place</strong>, whether they’re paid through UPI apps like PhonePe, Google Pay, Paytm, or via direct bank auto-debit.</p>
 
-<p>This app is ideal for people who have multiple monthly/yearly subscriptions and want a clean, central way to monitor them.</p>
+<p>With more and more people subscribing to platforms like Netflix, Spotify, Hotstar, Amazon Prime, and other digital services, it becomes difficult to remember due dates and which app was used for payment.</p>
+
+<p><strong>SubTrackr solves this problem</strong> by allowing users to:</p>
+
+<ul>
+  <li><strong>Manually add</strong> subscriptions with details like amount, due date, and category.</li>
+  <li><strong>Automatically detect</strong> subscriptions by reading relevant SMS messages (optional).</li>
+  <li><strong>Send timely alerts</strong> before auto-debits to help avoid missed payments and surprise deductions.</li>
+  <li><strong>Display monthly spending summary</strong> and active subscriptions in a clean dashboard.</li>
+</ul>
+
+<p>It’s ideal for anyone who wants to stay organized, avoid late fees, and keep all their subscriptions and expenses under control — no matter how or where they pay from.</p>
+
 
 ---
 
