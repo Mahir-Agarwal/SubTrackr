@@ -66,4 +66,17 @@
 ---
 
 <h2>📁 Project Structure (Android)</h2>
+📦 SubTrackr
+┣ 📂 activities/
+┃ ┗ 📄 AddSub.java
+┃ ┗ 📄 Dashboard.java
+┣ 📂 models/
+┃ ┗ 📄 Subscription.java
+┣ 📂 api/
+┃ ┗ 📄 ApiClient.java
+┃ ┗ 📄 ApiInterface.java
+┣ 📂 layout/
+┃ ┗ 📄 activity_add_sub.xml
+┃ ┗ 📄 activity_dashboard.xml
+┗ 📄 AndroidManifest.xml
 
