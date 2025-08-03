@@ -66,34 +66,34 @@
 ---
 
 <h2>📁 Project Structure (Android)</h2>
+## 📁 Project Structure
+
 <ul>
   <li>📦 <strong>SubTrackr</strong>
     <ul>
-      <li>📂 <strong>activities/</strong>
+      <li>📁 .idea/ – Android Studio config files</li>
+      <li>📁 .vscode/ – VS Code settings (if used)</li>
+      <li>📁 BackEnd/ – Spring Boot backend code
         <ul>
-          <li>📄 AddSub.java</li>
-          <li>📄 Dashboard.java</li>
+          <li>📁 .metadata/ – Workspace metadata</li>
         </ul>
       </li>
-      <li>📂 <strong>models/</strong>
+      <li>📁 app/ – Main Android application source
         <ul>
-          <li>📄 Subscription.java</li>
+          <li>📁 java/... – App logic, Activities, Models, API</li>
+          <li>📁 res/layout – XML layouts</li>
+          <li>📄 AndroidManifest.xml</li>
         </ul>
       </li>
-      <li>📂 <strong>api/</strong>
-        <ul>
-          <li>📄 ApiClient.java</li>
-          <li>📄 ApiInterface.java</li>
-        </ul>
-      </li>
-      <li>📂 <strong>layout/</strong>
-        <ul>
-          <li>📄 activity_add_sub.xml</li>
-          <li>📄 activity_dashboard.xml</li>
-        </ul>
-      </li>
-      <li>📄 AndroidManifest.xml</li>
+      <li>📁 gradle/ – Gradle wrapper files</li>
+      <li>📄 .gitignore – Git ignored files list</li>
+      <li>📄 README.md – Project documentation</li>
+      <li>📄 build.gradle.kts – Kotlin build script</li>
+      <li>📄 gradle.properties – Gradle configuration</li>
+      <li>📄 gradlew / gradlew.bat – Gradle wrapper scripts</li>
+      <li>📄 settings.gradle.kts – Gradle settings</li>
     </ul>
   </li>
 </ul>
+
 
