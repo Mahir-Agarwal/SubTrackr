@@ -61,7 +61,13 @@
 
 <h2>📷 Screenshots</h2>
 
-<p><em>📌 Add screenshots here of your Dashboard, Add Subscription screen, etc.</em></p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc63b1a5-50b8-4e84-bfa5-d644e41da014" alt="Dashboard Screen" width="45%" />
+  <img src="https://github.com/user-attachments/assets/3280a7a1-8979-4017-8022-5283d6791a46" alt="Add Subscription Screen" width="45%" />
+  <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/76686093-cc1c-49b3-a400-a3ae6c67c6c2" />
+
+</p>
+
 
 ---
 
