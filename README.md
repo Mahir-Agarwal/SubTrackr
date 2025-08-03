@@ -61,11 +61,18 @@
 
 <h2>📷 Screenshots</h2>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bc63b1a5-50b8-4e84-bfa5-d644e41da014" alt="Dashboard Screen" width="45%" />
-  <img src="https://github.com/user-attachments/assets/3280a7a1-8979-4017-8022-5283d6791a46" alt="Add Subscription Screen" width="45%" />
-  <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/76686093-cc1c-49b3-a400-a3ae6c67c6c2" />
+<h2>📷 Screenshots</h2>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bc63b1a5-50b8-4e84-bfa5-d644e41da014" alt="Dashboard" width="30%" />
+  <img src="https://github.com/user-attachments/assets/3280a7a1-8979-4017-8022-5283d6791a46" alt="Add Subscription" width="30%" />
+  <img src="https://github.com/user-attachments/assets/your-third-image-link" alt="Spending Summary" width="30%" />
+</p>
+
+<p align="center">
+  <em>🟩 Dashboard View</em> &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>🟪 Add Subscription</em> &nbsp;&nbsp;&nbsp;&nbsp;
+  <em>🟦 Spending Summary</em>
 </p>
 
 
