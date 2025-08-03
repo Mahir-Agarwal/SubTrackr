@@ -1,4 +1,4 @@
-<h1 align="center">📱 SubTrackr</h1>
+<h1 align="center">📱 SubTrackr: Smart Subscription and Auto-Debit Alert System </h1>
 <h3 align="center">Smart Subscription and Auto-Debit Alert System</h3>
 
 <p align="center">
