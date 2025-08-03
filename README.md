@@ -1,5 +1,5 @@
-<h1 align="center">📱 SubTrackr: Smart Subscription and Auto-Debit Alert System </h1>
-<h3 align="center">Smart Subscription and Auto-Debit Alert System</h3>
+<h1 align="center">📱 SubTrackr</h1>
+<h2 align="center">Smart Subscription and Auto-Debit Alert System</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/platform-Android-green" alt="platform" />
