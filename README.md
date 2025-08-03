@@ -66,13 +66,14 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bc63b1a5-50b8-4e84-bfa5-d644e41da014" alt="Dashboard" width="30%" />
   <img src="https://github.com/user-attachments/assets/3280a7a1-8979-4017-8022-5283d6791a46" alt="Add Subscription" width="30%" />
-  <img src="https://github.com/user-attachments/assets/your-third-image-link" alt="Spending Summary" width="30%" />
+ <img width="30%"  alt="Spending Analysis" src="https://github.com/user-attachments/assets/4354d58e-ecb0-49b7-8324-c313534dbb8f" />
+
 </p>
 
 <p align="center">
   <em>🟩 Dashboard View</em> &nbsp;&nbsp;&nbsp;&nbsp;
   <em>🟪 Add Subscription</em> &nbsp;&nbsp;&nbsp;&nbsp;
-  <em>🟦 Spending Summary</em>
+  <em>🟦 Spending Analysis</em>
 </p>
 
 
